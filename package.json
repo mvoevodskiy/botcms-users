@@ -1,6 +1,6 @@
 {
   "name": "botcms-users",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Users module for BotCMS",
   "main": "lib/botcmsusers.js",
   "scripts": {
