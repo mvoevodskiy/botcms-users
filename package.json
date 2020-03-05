@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mvoevodskiy/botcms-users#readme",
   "dependencies": {
-    "typeorm": "^0.2.19"
+    "mvl-botcms-users-semis": "^1.0.0"
   }
 }
